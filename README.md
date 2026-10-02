@@ -1,4 +1,4 @@
-# PortfolioPilot — Milestone 15: Frontend Streaming and Snapshot Recovery
+# Frontend Streaming and Snapshot Recovery
 
 ## Purpose of this learning activity
 
